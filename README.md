@@ -6,10 +6,19 @@ Put the file under this path in your computer, create the folders if they do not
 
 **C:\Users\{YourUsername}\AppData\Roaming\geany\colorschemes**
 
-# SYNTAXT COLOR PREVIEW
+# SYNTAX COLOR THEME PREVIEWS
 
+**CSS**
 ![Screenshot 1](https://raw.githubusercontent.com/avidichard/DaRic-Dark-AMOLED-Basic-Geany-Syntax-Theme-/refs/heads/main/daric-dab-01.png)
+
+**JAVASCRIPT**
 ![Screenshot 2](https://raw.githubusercontent.com/avidichard/DaRic-Dark-AMOLED-Basic-Geany-Syntax-Theme-/refs/heads/main/daric-dab-02.png)
+
+**PHP**
 ![Screenshot 3](https://raw.githubusercontent.com/avidichard/DaRic-Dark-AMOLED-Basic-Geany-Syntax-Theme-/refs/heads/main/daric-dab-03.png)
+
+**HTML**
 ![Screenshot 4](https://raw.githubusercontent.com/avidichard/DaRic-Dark-AMOLED-Basic-Geany-Syntax-Theme-/refs/heads/main/daric-dab-04.png)
+
+**DaRic Dark AMOLED Basic .conf file**
 ![Screenshot 5](https://raw.githubusercontent.com/avidichard/DaRic-Dark-AMOLED-Basic-Geany-Syntax-Theme-/refs/heads/main/daric-dab-05.png)
