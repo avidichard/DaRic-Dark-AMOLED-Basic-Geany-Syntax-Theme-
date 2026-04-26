@@ -1,4 +1,4 @@
-# DaRic-Dark-AMOLED-Basic-Geany-Syntax-Theme-
+# DaRic Dark AMOLED Basic Geany Syntax Theme
 Old school Basic syntax color theme updated to today's AMOLED displays for [Geany IDE](https://github.com/geany/geany).
 
 # INSTALLATION ON WINDOWS
