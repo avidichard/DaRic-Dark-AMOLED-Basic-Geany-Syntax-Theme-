@@ -1,10 +1,11 @@
 # DaRic Dark AMOLED Basic - Geany Syntax Color Theme
 Old school Basic syntax color theme updated to today's AMOLED displays for [Geany IDE](https://github.com/geany/geany).
 
-# INSTALLATION ON WINDOWS
+# INSTALLATION
 Put the ".conf" file under this path in your computer, create the folders if they do not exist:
 
-**C:\Users\{YourUsername}\AppData\Roaming\geany\colorschemes**
+**WINDOWS**: `C:\Users\{YourUsername}\AppData\Roaming\geany\colorschemes`
+**LINUX:** `/home/{YourUsername}/.config/geany/colorschemes`
 
 # SYNTAX COLOR THEME PREVIEWS
 
