@@ -5,6 +5,7 @@ Old school Basic syntax color theme updated to today's AMOLED displays for [Gean
 Put the ".conf" file under this path in your computer, create the folders if they do not exist:
 
 **WINDOWS**: `C:\Users\{YourUsername}\AppData\Roaming\geany\colorschemes`
+
 **LINUX:** `/home/{YourUsername}/.config/geany/colorschemes`
 
 # SYNTAX COLOR THEME PREVIEWS
